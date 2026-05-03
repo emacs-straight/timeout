@@ -1,2 +1,2 @@
-;; Generated package description from timeout.el  -*- no-byte-compile: t -*-
-(define-package "timeout" "2.1.0.20251209.235840" "Throttle or debounce Elisp functions" '((emacs "24.4")) :commit "a5e661de4d3c1d5ac25c449011fe99059fc55920" :authors '(("Karthik Chikmagalur" . "karthikchikmagalur@gmail.com")) :maintainer '("Karthik Chikmagalur" . "karthikchikmagalur@gmail.com") :keywords '("convenience" "extensions") :url "https://github.com/karthink/timeout")
+;; Generated package description from timeout.el  -*- no-byte-compile: t; lexical-binding:t -*-
+(define-package "timeout" "2.1.6.0.20260502.120806" "Throttle or debounce Elisp functions" '((emacs "24.4")) :commit "60b5ab7774f30fd12b9927e93b4d43fafb1fe925" :authors '(("Karthik Chikmagalur" . "karthikchikmagalur@gmail.com")) :maintainer '("Karthik Chikmagalur" . "karthikchikmagalur@gmail.com") :keywords '("convenience" "extensions") :url "https://github.com/karthink/timeout")
